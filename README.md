@@ -11,7 +11,10 @@ files we need to get some better compilation times.
 
 ## Using custom build of Alloy@1.3.1
 
-The custom version of alloy is hosted at (https://github.com/aetheon/alloy/tree/1_3_X)[https://github.com/aetheon/alloy/tree/1_3_X].
+The changes applied to Alloy:
+
+* https://github.com/aetheon/alloy/commit/9e47402ddf14e55d4087cb65cf2a166fec9e0538.
+
 
 This version tracks the modified date of each alloy file. If a change is made to a widget file (.js, .xml, .tss) then the
 widget file compilation is done, otherwise that is ignored.
