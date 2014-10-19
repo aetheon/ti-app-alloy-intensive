@@ -1,0 +1,57 @@
+<Alloy>
+    <View class="View">
+        <View class="View">
+	       <Label class="Label Label1">I'm the default widget</Label>
+        </View>
+    </View>
+
+    <View class="View">
+        <View class="View">
+           <Label class="Label Label2">I'm the default widget</Label>
+        </View>
+    </View>
+
+    <View class="View">
+        <View class="View">
+           <Label class="Label Label3">I'm the default widget</Label>
+        </View>
+    </View>
+
+    <View class="View">
+        <View class="View">
+           <Label class="Label Label4">I'm the default widget</Label>
+        </View>
+    </View>
+
+    <View class="View">
+        <View class="View">
+           <Label class="Label Label5">I'm the default widget</Label>
+        </View>
+    </View>
+
+    <View class="View">
+        <View class="View">
+           <Label class="Label Label6">I'm the default widget</Label>
+        </View>
+    </View>
+
+    <View class="View">
+        <View class="View">
+           <Label class="Label Label7">I'm the default widget</Label>
+        </View>
+    </View>
+
+    <View class="View">
+        <View class="View">
+           <Label class="Label Label8">I'm the default widget</Label>
+        </View>
+    </View>
+
+    <View class="View">
+        <View class="View">
+           <Label class="Label Label9">I'm the default widget</Label>
+        </View>
+    </View>
+
+
+</Alloy>

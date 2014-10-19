@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+
+		<View>
+			<Label class="label">Alloy Intensive Compilation</Label>
+			<Label class="label">Oscar Brito - @aetheon</Label>
+		</View>
+
+	</Window>
+</Alloy>
